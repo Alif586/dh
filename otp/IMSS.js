@@ -52,6 +52,14 @@ class OtpWorker2 extends EventEmitter {
                 currentUA: null,
                 jar: null,
                 client: null
+            },
+            {
+                username: "delwar143",
+                password: "delwar143",
+                lastId: null,
+                currentUA: null,
+                jar: null,
+                client: null
             }
            
         ];
